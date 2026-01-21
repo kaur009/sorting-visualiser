@@ -11,10 +11,10 @@
 _With the functionality of_ ⏳(**_Processing Speed Control_**)  _and_   📏(**_Array Size Control_**)
 ## ⚙ How it works ?!
 -------------------
-**_Here in our model, each element value is represented by ```THE SIZE OF THE BAR``` and the algorithms sort them by placing the smallest elements on the left and the biggest elements on the right**
+**Here in our model, each element value is represented by ```THE SIZE OF THE BAR``` and the algorithms sort them by placing the smallest elements on the left and the biggest elements on the right**
 
-**_The algorithms moves the items around by swapping elements, Without using any addational memory with creating another array.**
+**The algorithms moves the items around by swapping elements, Without using any addational memory with creating another array.**
 
 
 
-**_made by Prabhkirat Kaur
+**made by Prabhkirat Kaur
